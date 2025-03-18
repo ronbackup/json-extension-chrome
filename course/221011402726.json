@@ -1,0 +1,34 @@
+[
+    {
+        "kode": "22TIF0353",
+        "mata_kuliah": "PEMROGRAMAN II"
+    },
+    {
+        "kode": "22TIF0323",
+        "mata_kuliah": "REKAYASA PERANGKAT LUNAK"
+    },
+    {
+        "kode": "22TIF2012",
+        "mata_kuliah": "SISTEM PENDUKUNG KEPUTUSAN"
+    },
+    {
+        "kode": "22TIF3012",
+        "mata_kuliah": "TEKNIK KOMPILASI"
+    },
+    {
+        "kode": "22TIF0443",
+        "mata_kuliah": "MOBILE PROGRAMMING"
+    },
+    {
+        "kode": "22TIF0342",
+        "mata_kuliah": "TEKNOLOGI INTERNET OF THINGS"
+    },
+    {
+        "kode": "22TIF0363",
+        "mata_kuliah": "BASIS DATA II"
+    },
+    {
+        "kode": "22TIF0332",
+        "mata_kuliah": "KERJA PRAKTEK"
+    }
+]
